@@ -1,0 +1,2 @@
+# madadgaar
+madadgaar is an open source platform where people get a chance to post any kind of tech-related or community-related problems, which can be seen by either developer, entrepreneurs, designer and much more respect to the question. This will help in solve of real-life problems rather irrelative one. This will help out many people to get a team of required and perfect ones to help them out to solve their problems too (all related to the tech, community and individual tech problem's).
